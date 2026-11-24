@@ -10,7 +10,7 @@ window.portfolioConfig = {
 
   site: {
     brand: 'ORBITAL',                                   // top-left logo text
-    title: 'Girinath NU — ORBITAL | RF & Satellite Systems Portfolio',
+    title: 'Girinath NU — Portfolio',
     description: 'Portfolio of Girinath NU, B.Tech ECE student at SASTRA University exploring RF systems, satellite communication, radar imaging, SDR and embedded technologies.',
     footer: '© 2026 GIRINATH NU · ORBITAL · SASTRA UNIVERSITY'
   },
