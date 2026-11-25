@@ -79,6 +79,16 @@ window.portfolioConfig = {
      featured: true → ★ marker and sorted first when featuredFirst is true                                    */
   projectsOptions: { featuredFirst: false },
   projects: [
+       {
+      title: 'Satellite Tracking Using Phase Interferometry',
+      description: '', category: 'SATCOM', year: '', featured: false,
+      visual: 'phase', image: '', github: '', demo: '',
+      tags: ['Keysight EMPro', 'GNU Radio', 'Phase Interferometry', 'Phased Array', 'AoA', 'Doppler Estimation'],
+      objective: 'Passive satellite tracking using an SDR receiver.',
+      approach: 'An SDR-based phase interferometric receiver using angle-of-arrival (AoA) and Doppler estimation.',
+      concepts: ['Phase interferometry', 'Phased array', 'Angle of arrival', 'Doppler estimation'],
+      work: 'Developed an SDR-based phase interferometric receiver for passive satellite tracking using AoA and Doppler estimation, with Keysight EMPro and GNU Radio.'
+    },
     {
       title: 'AX.25-Based Telemetry Communication System',
       description: '', category: 'SATCOM', year: '', featured: false,
@@ -108,16 +118,6 @@ window.portfolioConfig = {
       approach: '6-axis IMU data from an MPU6050 is streamed wirelessly from an ESP32 to a web application over WebSockets.',
       concepts: ['6-axis inertial sensing', 'Wireless telemetry streaming', 'Real-time 3D visualization'],
       work: 'Developed a real-time web application that visualizes a 3D object’s orientation using 6-axis IMU data streamed wirelessly from an ESP32.'
-    },
-    {
-      title: 'Satellite Tracking Using Phase Interferometry',
-      description: '', category: 'SATCOM', year: '', featured: false,
-      visual: 'phase', image: '', github: '', demo: '',
-      tags: ['Keysight EMPro', 'GNU Radio', 'Phase Interferometry', 'Phased Array', 'AoA', 'Doppler Estimation'],
-      objective: 'Passive satellite tracking using an SDR receiver.',
-      approach: 'An SDR-based phase interferometric receiver using angle-of-arrival (AoA) and Doppler estimation.',
-      concepts: ['Phase interferometry', 'Phased array', 'Angle of arrival', 'Doppler estimation'],
-      work: 'Developed an SDR-based phase interferometric receiver for passive satellite tracking using AoA and Doppler estimation, with Keysight EMPro and GNU Radio.'
     },
     {
       title: 'GNSS L1 Signal Generation and Transmitter Design',
