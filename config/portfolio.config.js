@@ -69,8 +69,7 @@ window.portfolioConfig = {
       { label: 'DEGREE',     value: 'B.Tech ECE (Hons)' },
       { label: 'UNIVERSITY', value: 'SASTRA University, Thanjavur' },
       { label: 'MINOR',      value: 'Innovation and Entrepreneurship' },
-      { label: 'GRADUATION', value: 'May 2027 (expected)' },
-      { label: 'CGPA',       value: '7.8897' }
+      { label: 'GRADUATION', value: 'May 2027 (expected)' }
     ]
   },
 
