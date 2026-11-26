@@ -153,7 +153,7 @@ window.portfolioConfig = {
   positions: [
     { role: 'President',           org: 'Stellaria · Astronomy Club',  period: '2026–Now' },
     { role: 'Vice Chairperson',    org: 'IEEE AP-S Student Branch',    period: '2026–Now' },
-    { role: 'Project Coordinator', org: 'Electronics Club',            period: '2025–Now' },
+    { role: 'Project Coordinator', org: 'Electronics Club',            period: '2025–2026' },
     { role: 'Contributor',         org: 'Minnanuvial Boys',            period: 'student-led electronics initiative' }
   ],
 
