@@ -20,7 +20,7 @@ window.portfolioConfig = {
     initials: 'GNU',                                    // shown if the profile photo is missing
     tagline: 'ENGINEERING SIGNALS. EXPLORING BEYOND BOUNDARIES.',
     intro: 'Electronics and Communication Engineering enthusiast exploring RF systems, satellite communication, radar imaging, SDR and embedded technologies.',
-    email: '127004076@sastra.ac.in',
+    email: 'msg2girinath@gmail.com',
     phone: '+91-9123566533',
     location: '',
     profileImage: 'assets/profile/profile.jpg',         // replace this file to change the photo
