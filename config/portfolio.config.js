@@ -162,9 +162,9 @@ window.portfolioConfig = {
   ],
 
   education: [
-    { period: 'May 2027 (expected)', title: 'B.Tech ECE (Hons)',  institute: 'SASTRA University, Thanjavur', details: 'CGPA 7.8897 · Minor in Innovation and Entrepreneurship' },
-    { period: 'April 2023',          title: 'Senior Secondary',   institute: 'Velammal Mat. Hr. Sec. School', details: '89%' },
-    { period: 'April 2021',          title: 'Secondary',          institute: 'Bharathidhasanar Mat. Hr. Sec. School', details: '' }
+    { period: 'May 2027 (expected)', title: 'B.Tech ECE (Hons)',  institute: 'SASTRA University, Thanjavur' },
+    { period: 'April 2023',          title: 'Senior Secondary',   institute: 'Velammal Mat. Hr. Sec. School'},
+    { period: 'April 2021',          title: 'Secondary',          institute: 'Bharathidhasanar Mat. Hr. Sec. School'}
   ],
 
   certifications: [
